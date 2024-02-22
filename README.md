@@ -1,16 +1,52 @@
-### Hi there 👋
 
-<!--
-**Al1veeee/Al1veeee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Привет, меня зовут Дени!
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### :man_technologist: Обо мне:
+
+Я начинающий разработчик в области программной инженерии. На данный момент обучаюсь в Российском технологическом университете — МИРЭА. В будущем хочу стать специалистом в области искусственного интеллекта.
+
+:mailbox: Как связаться со мной:  [![Telegram Badge](https://img.shields.io/badge/-Al1veee-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/Al1veee)
+
+---
+
+### 💻 Технологии:
+
+<div>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="git" alt="git" width="40" height="40"/>&nbsp
+  <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" title="mongodb" alt="mongodb" width="40" height="40"/>&nbsp
+  <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-plain.svg" title="C" alt="C" width="40" height="40"/>&nbsp;
+  <!-- <img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" title="redux" alt="redux" width="40" height="40"/>&nbsp; -->
+</div>
+
+---
+
+### 🛠 Инструменты:
+
+<div>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/visualstudio/visualstudio-original.svg" title="VisualStudio" alt="VisualStudio" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="VisualStudioCode" alt="VisualStudioCode" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/pycharm/pycharm-original.svg" title="PyCharm" alt="PyCharm" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/windows11/windows11-original.svg" title="Windows 11" alt="Windows 11" width="40" height="40"/>&nbsp;
+  <img src="https://upload.wikimedia.org/wikipedia/commons/9/9e/YouTube_Logo_%282013-2017%29.svg" title="YouTube" alt="YouTube" width="40" height="40"/>&nbsp;
+</div>
+
+---
+
+
+### 💻 Codewars:
+
+![codewars](https://www.codewars.com/users/Al1veeee/badges/large)
+
+### ⚙️ GitHub статистика:
+
+<table>
+  <tr>
+    <td>
+      <img align="left" src="http://github-readme-streak-stats.herokuapp.com?user=Al1veeee&theme=dark&background=000000" alt="webDev's Github stats" />
+    </td>
+  </tr>
+</table>
+
+![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=Al1veeee)
