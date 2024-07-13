@@ -34,11 +34,6 @@
 
 ---
 
-
-### 💻 Codewars:
-
-![codewars](https://www.codewars.com/users/Al1veeee/badges/large)
-
 ### ⚙️ GitHub статистика:
 
 <table>
