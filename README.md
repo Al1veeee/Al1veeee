@@ -8,8 +8,7 @@
 ![Room](https://img.shields.io/badge/Room-1F6FEB?style=for-the-badge)
 ![Hilt](https://img.shields.io/badge/Hilt-0F9D58?style=for-the-badge)
 
-
-## DENI | Junior Android Developer
+## DENI A. | Junior Android Developer
 
 Learning Kotlin, building Android apps, and trying to get a bit better every day.
 
@@ -22,21 +21,21 @@ Learning Kotlin, building Android apps, and trying to get a bit better every day
 ---
 
 ### 👋 About me
-Hi, I’m Deni — a 3rd-year Software & Systems Engineering student at RTU MIREA, based in Moscow, Russia.
-I’m a junior Android developer focused on Kotlin and modern Android tools, and I prefer to learn by building real things, not just reading documentation.
+Hi, I’m Deni — a 3rd-year Software & Systems Engineering student at RTU MIREA, based in Moscow, Russia.  
+I’m a junior Android developer focused on Kotlin and modern Android tools, and I want to grow into a reliable, in-demand mobile developer.
 
 ---
 
 ### ☕ Right now
-- Exploring Jetpack Compose and trying to make UI feel simple and pleasant to use.
-- Working with Coroutines and Flow to keep async work and state under control.
+- Exploring Jetpack Compose and trying to make UI feel simple and pleasant to use.  
+- Working with Coroutines and Flow to keep async work and state under control.  
 - Using Retrofit/OkHttp, Room, and Hilt in pet projects to get closer to “real world” Android apps.
 
 ---
 
 ### ✨ How I work
 - I prefer clear, readable code over “smart” one-liners.
-- I like steady daily progress instead of rushing and burning out.
+- I like steady daily progress instead of rushing and burning out.  
 - I treat feedback as a normal part of the process, not as something negative.
 - I try to keep my repos tidy: meaningful commits, short notes, and up-to-date README.
 
@@ -50,18 +49,19 @@ I care about a healthy lifestyle, lean towards a sporty routine, and stay away f
 ---
 
 ### 💼 Open to
-Even though I’m still studying, I’m open to junior roles and internships — on-site in Moscow or remote.
+Even though I’m still studying, I’m open to junior roles and internships — on-site in Moscow or remote.  
 I’m ready to learn fast, adapt to the team’s stack, and grow through real tasks and feedback.
 
 ---
 
-<details>
-  <summary>📊 GitHub stats (optional)</summary>
+<img 
+  src="https://github-readme-activity-graph.vercel.app/graph?username=Al1veeee&theme=github-compact" 
+  alt="GitHub Activity Graph" 
+/>
 
-  <img 
-    src="https://github-readme-stats.vercel.app/api?username=Al1veeee&show_icons=true&theme=transparent" 
-    alt="GitHub Stats" 
-    height="165" 
-  />
 
-</details>
+
+
+
+
+
