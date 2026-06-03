@@ -1,63 +1,53 @@
 <div align="left">
 
 ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
-![Compose](https://img.shields.io/badge/Jetpack%20Compose-4285F4?style=for-the-badge&logo=jetpackcompose&logoColor=white)
-![Coroutines](https://img.shields.io/badge/Coroutines-5C6BC0?style=for-the-badge)
-![Retrofit](https://img.shields.io/badge/Retrofit-2D2D2D?style=for-the-badge)
-![OkHttp](https://img.shields.io/badge/OkHttp-2D2D2D?style=for-the-badge)
-![Room](https://img.shields.io/badge/Room-1F6FEB?style=for-the-badge)
-![Hilt](https://img.shields.io/badge/Hilt-0F9D58?style=for-the-badge)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Cassandra](https://img.shields.io/badge/Cassandra-1287B1?style=for-the-badge&logo=apachecassandra&logoColor=white)
+![Gradle](https://img.shields.io/badge/Gradle-02303A?style=for-the-badge&logo=gradle&logoColor=white)
+![REST API](https://img.shields.io/badge/REST_API-02569B?style=for-the-badge)
+![SpringBoot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
-## DENI A. | Junior Android Developer
-
-Learning Kotlin, building Android apps, and trying to get a bit better every day.
-
-<a href="https://www.linkedin.com/in/Al1ve">LinkedIn</a> •
-<a href="https://t.me/Al1veee">Telegram</a> •
-<a href="mailto:alimkhanov.d.r@gmail.com">Email</a>
+## DENI A. | Backend Developer (Kotlin/Java)
+**21 y.o. • Moscow • RTU MIREA**  
+Studying System and Software Engineering |
+Focused on backend and mobile development
 
 </div>
 
 ---
 
-### 👋 About me
-Hi, I’m Deni — a 3rd-year Software & Systems Engineering student at RTU MIREA, based in Moscow, Russia.  
-I’m a junior Android developer focused on Kotlin and modern Android tools, and I want to grow into a reliable, in-demand mobile developer.
+### 💻 Currently Learning
 
+- Apache Cassandra
+- Spring Security & JWT Authentication
+- Microservices & API Design
+- Docker & Containerization
+- CI/CD Practices
+
+### 🎯 Interested In
+
+- Java & Kotlin Backend Development
+- Distributed Systems
+- Database Design & Optimization
+- Cloud & DevOps Technologies
+- Software Architecture
 ---
 
-### ☕ Right now
-- Exploring Jetpack Compose and trying to make UI feel simple and pleasant to use.  
-- Working with Coroutines and Flow to keep async work and state under control.  
-- Using Retrofit/OkHttp, Room, and Hilt in pet projects to get closer to “real world” Android apps.
+### 💡 Some Of My Projects
+- **[SkillHub](https://github.com/danielmirrox/skillhub)** — Hackathon matching platform with AI skill scoring and GitHub OAuth  
+- **[Leetcode Tracker](https://github.com/Al1veeee/LeetCode-Tracker)** — REST API for monitoring LeetCode progress
+- **[DnD_TG_bot](https://github.com/Al1veeee/DnD_TG_bot)** — Telegram bot that runs interactive text-based D&D adventures with an AI Dungeon Master
+- **[Dependency graph visualization](https://github.com/Al1veeee/Dependency_graph_visualization)** — Command-line tool for visualizing dependency graphs of git repositories, with output in PNG format
+- **[Command line tool for educational configuration language](https://github.com/danielmirrox/currency-calculator)** — Command-line tool that converts text from an educational configuration language to XML format
 
----
-
-### ✨ How I work
-- I prefer clear, readable code over “smart” one-liners.
-- I like steady daily progress instead of rushing and burning out.  
-- I treat feedback as a normal part of the process, not as something negative.
-- I try to keep my repos tidy: meaningful commits, short notes, and up-to-date README.
-
----
-
-### 🏃 Beyond coding
-Outside of tech, I enjoy PC games, mostly as a way to relax and reset.  
-At the same time, I try to keep gaming in check so it doesn’t take over my schedule.  
-I care about a healthy lifestyle, lean towards a sporty routine, and stay away from bad habits — it helps me keep focus and energy for learning and projects.
-
----
-
-### 💼 Open to
-Even though I’m still studying, I’m open to junior roles and internships — on-site in Moscow or remote.  
-I’m ready to learn fast, adapt to the team’s stack, and grow through real tasks and feedback.
-
----
-
-<img 
-  src="https://github-readme-activity-graph.vercel.app/graph?username=Al1veeee&theme=github-compact" 
-  alt="GitHub Activity Graph" 
-/>
+### Contacts
+📱 **Telegram**: [@Al1veee](https://t.me/Al1veee)  
+✉️ **Email**: [alimkhanov.d.r@gmail.com](mailto:alimkhanov.d.r@gmail.com)  
 
 
 
