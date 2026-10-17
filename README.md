@@ -4,7 +4,6 @@
 
 <a href="https://t.me/Al1veee"><img src="https://img.shields.io/badge/Telegram-@Al1veee-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"></a>
 <a href="mailto:alimkhanov.d.r@gmail.com"><img src="https://img.shields.io/badge/Email-alimkhanov.d.r@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
-<img src="https://komarev.com/ghpvc/?username=Al1veeee&label=profile%20views&color=7F52FF&style=for-the-badge" alt="Profile views">
 
 </div>
 
