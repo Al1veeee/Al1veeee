@@ -70,7 +70,7 @@
     <text x="40" y="220" class="mono"><tspan class="prompt">$</tspan><tspan class="cmd" x="62">cat status.txt</tspan></text>
     <rect class="cover t3" x="60" y="202" width="560" height="24" style="animation-duration:0.9s;animation-delay:3.2s"/>
   </g>
-  <text x="40" y="248" class="mono out-line" style="animation-delay:4.3s"><tspan class="ok pulse">●</tspan><tspan class="ok"> open to work</tspan><tspan class="dot">  ·  </tspan><tspan class="out">Java backend internship</tspan><tspan class="dot">  ·  </tspan><tspan class="out">RTU MIREA, 4th year</tspan></text>
+  <text x="40" y="248" class="mono out-line" style="animation-delay:4.3s"><tspan class="ok pulse">●</tspan><tspan class="ok"> looking for a Java backend internship</tspan><tspan class="dot">  ·  </tspan><tspan class="out">RTU MIREA, 4th year</tspan></text>
 
   <!-- кофе для Java -->
   <g class="mono out-line" style="animation-delay:0.3s" xml:space="preserve">
