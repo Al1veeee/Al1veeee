@@ -1,57 +1,59 @@
-<div align="left">
+<div align="center">
 
-![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Cassandra](https://img.shields.io/badge/Cassandra-1287B1?style=for-the-badge&logo=apachecassandra&logoColor=white)
-![Gradle](https://img.shields.io/badge/Gradle-02303A?style=for-the-badge&logo=gradle&logoColor=white)
-![REST API](https://img.shields.io/badge/REST_API-02569B?style=for-the-badge)
-![SpringBoot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
-![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+<img src="assets/header.svg" width="100%" alt="Deni Alimkhanov, Backend Developer (Java / Kotlin)">
 
-## DENI A. | Backend Developer (Kotlin/Java)
-**21 y.o. • Moscow • RTU MIREA**  
-Studying System and Software Engineering |
-Focused on backend and mobile development
+<a href="https://t.me/Al1veee"><img src="https://img.shields.io/badge/Telegram-@Al1veee-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"></a>
+<a href="mailto:alimkhanov.d.r@gmail.com"><img src="https://img.shields.io/badge/Email-alimkhanov.d.r@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
+<img src="https://komarev.com/ghpvc/?username=Al1veeee&label=profile%20views&color=7F52FF&style=for-the-badge" alt="Profile views">
 
 </div>
 
----
+## 👋 About me
 
-### 💻 Currently Learning
+- 🎓 4th-year Software Engineering student at **RTU MIREA**, Moscow
+- ⚙️ Build backends with **Java / Spring Boot** and **Kotlin / Ktor** on top of **PostgreSQL**
+- 🏪 My [SimPoint backend](https://github.com/Al1veeee/Simpoint-backend) automates reporting for a real phone store: 4 staff, ~15 sales a day
+- 🏆 Top-10 at the **«Idea. Code. Release»** hackathon (Moscow State University × T-Bank)
+- 🌱 Learning: distributed systems, microservices & DDD, Apache Cassandra
+- 📱 Also into mobile: Android with Jetpack Compose and Flutter
 
-- Apache Cassandra
-- Spring Security & JWT Authentication
-- Microservices & API Design
-- Docker & Containerization
-- CI/CD Practices
+## 🧰 Tech stack
 
-### 🎯 Interested In
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,kotlin,spring,ktor,postgres,mongodb,docker,githubactions,gradle,maven,git,linux,idea,androidstudio,flutter&perline=8" alt="Tech stack">
+</p>
 
-- Java & Kotlin Backend Development
-- Distributed Systems
-- Database Design & Optimization
-- Cloud & DevOps Technologies
-- Software Architecture
----
+## 🚀 Featured projects
 
-### 💡 Some Of My Projects
-- **[SkillHub](https://github.com/danielmirrox/skillhub)** — Hackathon matching platform with AI skill scoring and GitHub OAuth  
-- **[Leetcode Tracker](https://github.com/Al1veeee/LeetCode-Tracker)** — REST API for monitoring LeetCode progress
-- **[DnD_TG_bot](https://github.com/Al1veeee/DnD_TG_bot)** — Telegram bot that runs interactive text-based D&D adventures with an AI Dungeon Master
-- **[Dependency graph visualization](https://github.com/Al1veeee/Dependency_graph_visualization)** — Command-line tool for visualizing dependency graphs of git repositories, with output in PNG format
-- **[Command line tool for educational configuration language](https://github.com/danielmirrox/currency-calculator)** — Command-line tool that converts text from an educational configuration language to XML format
+| Project | What it does | Stack |
+|---|---|---|
+| [**SimPoint Backend**](https://github.com/Al1veeee/Simpoint-backend) | Sales and SIM-card stock for a phone store. Staff log sales through a Telegram bot, revenue reports build themselves. In daily use | Java 21, Spring Boot, PostgreSQL, Testcontainers, GitHub Actions |
+| [**GeoSocial**](https://github.com/Al1veeee/GeoSocial) | Location-based social network: places on a map, reviews with ratings, activity feed, radius search | Kotlin, Ktor, PostgreSQL, Firebase, Jetpack Compose |
+| [**LeetCode Tracker**](https://github.com/Al1veeee/LeetCode-Tracker) | REST API that syncs LeetCode progress, maps solved problems to 24 algorithm patterns, tracks streaks and goals | Kotlin, Ktor, Exposed, PostgreSQL, Docker |
+| [**SkillHub**](https://github.com/danielmirrox/skillhub) | Hackathon team matching with AI skill scoring. Top-10 at «Idea. Code. Release» | Node.js, PostgreSQL, GitHub OAuth |
+| [**Kotlin Automod Bot**](https://github.com/Al1veeee/Kotlin-Automod-Bot) | Discord moderation bot: 19 slash commands, sliding-window anti-spam, Clean Architecture | Kotlin, JDA, MongoDB |
 
-### Contacts
-📱 **Telegram**: [@Al1veee](https://t.me/Al1veee)  
-✉️ **Email**: [alimkhanov.d.r@gmail.com](mailto:alimkhanov.d.r@gmail.com)  
+<details>
+<summary><b>More projects</b></summary>
+<br>
 
+- [**DnD TG Bot**](https://github.com/Al1veeee/DnD_TG_bot): Telegram bot that runs text D&D adventures with an AI Dungeon Master (Python, SQLite)
+- [**Dependency Graph Visualization**](https://github.com/Al1veeee/Dependency_graph_visualization): CLI tool that draws a git repository's dependency graph with Graphviz (Python)
+- [**Config Language → XML**](https://github.com/danielmirrox/currency-calculator): CLI converter from an educational configuration language to XML (Python)
 
+</details>
 
+## 📊 GitHub stats
 
+<p align="center">
+  <img src="profile/stats.svg" height="165" alt="GitHub stats">
+  <img src="profile/top-langs.svg" height="165" alt="Top languages">
+</p>
 
-
-
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="profile/snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="profile/snake.svg">
+    <img src="profile/snake.svg" alt="Contribution snake">
+  </picture>
+</p>
